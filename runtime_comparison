@@ -1,1 +1,4 @@
-
+|Method              | Runtime (Estimate)     |  Optimality                                 |
+| -------------      | -------------          |------------                                 |
+| Quantum Annealing  | ~1–5 seconds per run   | Near-optimal                                |
+| Genetic Algorithm  | ~10–30 seconds per run |Approximate-optimal (depends on iterations)  |
