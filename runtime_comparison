@@ -1,3 +1,6 @@
+for a scheduling problem with 7 shifts and 10 tasks:
+
+
 |Method              | Runtime (Estimate)     |  Optimality                                 |
 | -------------      | -------------          |------------                                 |
 | Quantum Annealing  | ~1–5 seconds per run   | Near-optimal                                |
